@@ -11,9 +11,7 @@ The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and ve
 
 ### Hardware Requirements
 - Minimum **4GB RAM** and a **multi-core processor**
-
 ---
-
 ## Procedure
 
 ### 1. Writing Verilog Code:
